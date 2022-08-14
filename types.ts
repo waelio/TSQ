@@ -6,7 +6,7 @@ export interface IHARF {
   color?: string
   encoding?: string
 }
-export interface IkALEMAT {
+export interface IKALEMAT {
   horuf: IHARF[]
 }
 export interface IAYA {
